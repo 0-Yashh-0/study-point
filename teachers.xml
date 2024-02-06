@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TEACHERS>
+<teacher>
+<name>Yash</name>
+<id>2022XXXX </id>
+<course>Front-End </course>
+<age>26 </age>
+<contact> 111222333XXXX</contact>
+</teacher>
+<teacher>
+<name> Abhinav</name>
+<id>2022XXXX </id>
+<course>Back-End </course>
+<age>27 </age>
+<contact> 111222333XXXX</contact>
+</teacher>
+<teacher>
+<name>Anushka</name>
+<id>2022XXXX </id>
+<course>UI/UX Design </course>
+<age>26 </age>
+<contact> 111222333XXXX</contact>
+</teacher>
+<teacher>
+<name>Aditya </name>
+<id>2022XXXX </id>
+<course>DBMS </course>
+<age>30 </age>
+<contact> 111222333XXXX</contact>
+</teacher>
+<teacher>
+<name>Anishka</name>
+<id>2022XXXX</id>
+<course>Graphic Design</course>
+<age>26</age>
+<contact> 111222333XXXX</contact>
+</teacher>
+<teacher>
+<name>Bhavishya</name>
+<id>2022XXXX </id>
+<course>Front-End </course>
+<age>24 </age>
+<contact> 111222333XXXX</contact>
+</teacher>
+<teacher>
+<name>Mehatvi</name>
+<id>2022XXXX</id>
+<course>Back-End</course>
+<age>27</age>
+<contact> 111222333XXXX</contact>
+</teacher>
+</TEACHERS>
